@@ -1,4 +1,4 @@
-back-end
+tabelacampeonato
 ========
 
 Camada de persistência.
